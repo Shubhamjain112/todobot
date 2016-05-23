@@ -1,0 +1,7 @@
+{
+    "name": "Devdactic Ionic to Heroku Example",
+    "description": "A simple hello app for Heroku",
+    "repository": "https://github.com/Shubhamjain112/hellobot",
+    "logo": "http://design.ubuntu.com/wp-content/uploads/ubuntu-logo32.png",
+    "keywords": ["ionic", "devdactic", "whatever"]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Todobot bot",
+    "description": "A simple todo-listing app for todoed",
+    "repository": "https://github.com/Shubhamjain112/todobot",
+    "logo": "http://design.ubuntu.com/wp-content/uploads/ubuntu-logo32.png",
+    "keywords": ["ionic", "shubham", "whatever"]
+}
